@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  todo-list
+//  Project10
 //
-//  Created by Linh Nguyen on 6/6/21.
+//  Created by Linh Nguyen on 5/6/21.
 //
 
 import UIKit
